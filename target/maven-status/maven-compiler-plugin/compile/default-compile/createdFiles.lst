@@ -1,0 +1,8 @@
+com\alten\dto\VehicleDetailDTO.class
+com\alten\service\VehicleService.class
+com\alten\service\CustomerApi.class
+com\alten\dto\Vehicle.class
+com\alten\repository\VehicleRepository.class
+com\alten\dto\CustomerDTO.class
+com\alten\controller\VehicleController.class
+com\alten\VehicleApplication.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.alten.controller.VehicleControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.052 sec - in com.alten.controller.VehicleControllerTest

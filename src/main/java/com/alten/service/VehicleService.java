@@ -59,15 +59,15 @@ public class VehicleService{
 				customerDTO=custDTO.getBody();
 				vehicleDetail.setCustomerName(customerDTO.getCustomerName());
 				vehicleDetail.setCustomerAddress(customerDTO.getCustomerAddress());
-				System.out.println("not null");
+//				System.out.println("not null");
 			}
 			else
-				System.out.println("its null");
+//				System.out.println("its null");
 			vehicleDetail.setReg_nr(vehObj.getReg_nr());
 			vehicleDetail.setVehicle_status(vehObj.getVehicleStatus());
 			vehicleDetailList.add(vehicleDetail);
 		}
-		System.out.println("Vehicle List get Vehicles  " + vehicleDetailList.size());
+//		System.out.println("Vehicle List get Vehicles  " + vehicleDetailList.size());
 		return vehicleDetailList;
 		
 	}
